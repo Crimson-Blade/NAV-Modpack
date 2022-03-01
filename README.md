@@ -7,7 +7,7 @@ This repo contains the "mods" folder for the SMP server. Follow the setup instru
 * Navigate to your .minecraft folder.
 * Right click anywhere in the folder and Choose "Git bash here" from the drop down menu.
 * Now, in the terminal window run the following commands:
-  * `git clone https://github.com/Crimson-Blade/Not-A-Virus-Modpack.git`
+  * `git clone https://github.com/Crimson-Blade/NAV-Modpack.git`
 * Now rename the NAV-Modpack folder to mods (and delete or rename your old mods folder)
 * Run Minecraft forge 1.16.5
 
